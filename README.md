@@ -10,7 +10,7 @@ I'm a dedicated and adaptable software developer, with a background in Business 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MarcoSantos2&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MarcoSantos2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoSantos2&theme=tokyonight&layout=compact&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoSantos2&theme=tokyonight&layout=compact&langs_count=10&count_weight=0$size_weight=2)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
