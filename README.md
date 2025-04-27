@@ -10,7 +10,7 @@ I'm a dedicated and adaptable software developer, with a background in Business 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MarcoSantos2&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MarcoSantos2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoSantos2&theme=dark&layout=compact&langs_count=10&exclude_repo=Word-and-Letter-Counter2,First-Project---Test,Project-2---Keep-Moving,Udemy---Part-2-of-this-Python-3-Deep-Dive-series,Deploy-an-NLP-Text-Generator--Bart-Simpson-Chalkboard-Gag,wallpaper-rotation)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoSantos2&theme=dark&layout=compact&langs_count=10&exclude_repo=Word-and-Letter-Counter2,First-Project---Test,Project-2---Keep-Moving,Udemy---Part-2-of-this-Python-3-Deep-Dive-series,Deploy-an-NLP-Text-Generator--Bart-Simpson-Chalkboard-Gag)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
