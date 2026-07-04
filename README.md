@@ -8,7 +8,7 @@ I'm a dedicated and adaptable software developer, with a background in Business 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-s-1a7036267) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marco.inctva2@gmail.com) 
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com?user=MarcoSantos2&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com?user=MarcoSantos2&theme=dark&hide_border=false&v=20260704)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoSantos2&theme=dark&layout=compact&langs_count=6)
 
 ### ✍️ Random Dev Quote
